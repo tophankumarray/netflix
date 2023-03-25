@@ -1,0 +1,141 @@
+body{
+    background-color: grey;
+}
+.first{
+    background-image: url(https://user-images.githubusercontent.com/33485020/108069438-5ee79d80-7089-11eb-8264-08fdda7e0d11.jpg);
+    background-size: cover;
+    height: 730px;
+}
+#signin{
+    background-color: black;
+}
+#start{
+    background-color: red;
+}
+h1,h2,h3{
+    color: white;
+    text-shadow: 10px;
+    font-style: bold;
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.imgs{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.c{
+    float: right;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-right: 10px;
+    height: 40px;
+    width: 60px;
+    padding-left: 20px;
+}
+.b{
+    float: right;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-right: 10px;
+    height: 40px;
+    width: 60px;
+    padding-left: 20px;
+}
+.d{
+    color: grey;
+    font-weight: bold;
+    height: 38px;
+    width: 500px;
+    margin-left: 400px;
+    padding-left: 20px;
+}
+.e{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    height: 35px;
+    width: 180px;
+    padding-left: 20px;
+    font-size: 20px;
+    
+}
+h1{
+    margin-top: 200px;
+}
+.second,.third,.four,.five{
+    background-color: black;
+    height: 500px;
+    margin-top: 7px;
+    display: flex;
+    
+}
+.g,.j,.m,.v{
+    color: white;
+    margin-left: 200px;
+    padding-top: 100px;
+    list-style-type: none;
+    
+}
+.f,.k,.o,.s{
+    font-size: 50px;
+   
+}
+.t,.l,.p,.u{
+    font-size: 20px;
+}
+.h,.i,.n,.q{
+    margin-left: 300px;
+    margin-top: 150px;
+}
+.six{
+    background-color: black;
+    height: 800px;
+    margin-top: 0px;
+}
+.w{
+    color: white;
+    font-size: 50px;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 40px;
+
+}
+.y{
+    background-color: grey;
+    height: 30px;
+    width: 780px;
+    margin-left: 380px;
+    padding-left: 40px;
+    padding-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+.z{
+    color: white;
+    font-size: 20px;
+    padding-left: 80px;
+
+}
+.tx{
+    color: grey;
+    font-weight: bold;
+    height: 40px;
+    width: 500px;
+    margin-left: 400px;
+    padding-left: 20px;
+}
+.tt{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    width: 180px;
+    padding-left: 20px;
+    font-size: 20px;
+}
